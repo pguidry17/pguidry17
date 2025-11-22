@@ -7,15 +7,15 @@ I recently completed the **Google Cybersecurity Professional Certificate** and I
 
 ---
 
-## 🔐 Cybersecurity Projects (Portfolio)
-### 📝 SOC Case Studies
+##  Cybersecurity Projects (Portfolio)
+###  SOC Case Studies
 - **SSH Brute Force → Reverse Shell Investigation (Linux Auth Logs)**  
   Identified brute-force attempts, successful unauthorized login, privilege escalation activity, and a netcat reverse shell.  
   *[View case study → add your Gist link here]*
 
 ---
 
-## 📊 Log Analysis & Threat Detection
+##  Log Analysis & Threat Detection
 - Linux authentication log triage  
 - SSH brute-force detection  
 - IOC extraction & attack timeline creation  
@@ -23,21 +23,21 @@ I recently completed the **Google Cybersecurity Professional Certificate** and I
 
 ---
 
-## 💻 Security Tools & Scripts (In Progress)
+##  Security Tools & Scripts (In Progress)
 - Python: Failed login parser  
 - Python: Simple IOC extraction script  
 - Bash: Log filtering & automation helpers  
 
 ---
 
-## ☁️ SIEM & Cloud Security (Coming Soon)
+##  SIEM & Cloud Security (Coming Soon)
 - Microsoft Sentinel home lab  
 - Splunk detection rules  
 - Azure AD & Identity fundamentals  
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 - Pass **CompTIA Security+**
 - Complete 3 more SOC-style investigations
 - Build first Python-based security automation tool
@@ -45,7 +45,7 @@ I recently completed the **Google Cybersecurity Professional Certificate** and I
 
 ---
 
-## 🧠 What I'm Learning Right Now
+##  What I'm Learning Right Now
 - Linux CLI security workflows  
 - Networking fundamentals (ports, protocols, TCP/IP)  
 - SIEM investigation logic  
@@ -53,11 +53,11 @@ I recently completed the **Google Cybersecurity Professional Certificate** and I
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 **GitHub:** https://github.com/pguidry17  
 (LinkedIn link coming soon!)
 
 ---
 
-*Thanks for stopping by — new projects are added weekly as I build my skills and portfolio.*
+*Thanks for stopping by — new projects are added as I build my skills and portfolio.*
 
