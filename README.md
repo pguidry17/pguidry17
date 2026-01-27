@@ -3,7 +3,7 @@
 
 I'm transitioning into cybersecurity after 10+ years of high-pressure, operations-driven work in the hospitality industry. I’m currently developing a hands-on security portfolio focused on SOC investigations, Linux log analysis, and foundational threat detection skills.
 
-I completed the **Google Cybersecurity Professional Certificate** and I've recently completed **CompTIA Security+**. My goal is to earn my first role as a **SOC Analyst**, **Cybersecurity Analyst**, or **IT → Security hybrid** position in the Houston area.
+I completed the **Google Cybersecurity Professional Certificate** and I've recently earned my **CompTIA Security+** certification. My goal is to earn my first role as a **SOC Analyst**, **Cybersecurity Analyst**, or **IT → Security hybrid** position in the Houston area.
 
 ---
 
