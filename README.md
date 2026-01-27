@@ -3,7 +3,7 @@
 
 I'm transitioning into cybersecurity after 10+ years of high-pressure, operations-driven work in the hospitality industry. I’m currently developing a hands-on security portfolio focused on SOC investigations, Linux log analysis, and foundational threat detection skills.
 
-I recently completed the **Google Cybersecurity Professional Certificate** and I'm actively preparing for **CompTIA Security+**. My goal is to earn my first role as a **SOC Analyst**, **Cybersecurity Analyst**, or **IT → Security hybrid** position in the Houston area.
+I completed the **Google Cybersecurity Professional Certificate** and I've recently completed **CompTIA Security+**. My goal is to earn my first role as a **SOC Analyst**, **Cybersecurity Analyst**, or **IT → Security hybrid** position in the Houston area.
 
 ---
 
@@ -11,7 +11,7 @@ I recently completed the **Google Cybersecurity Professional Certificate** and I
 ###  SOC Case Studies
 - **SSH Brute Force → Reverse Shell Investigation (Linux Auth Logs)**  
   Identified brute-force attempts, successful unauthorized login, privilege escalation activity, and a netcat reverse shell.  
-  *[View case study → add your Gist link here]*
+  
 
 ---
 
@@ -38,7 +38,6 @@ I recently completed the **Google Cybersecurity Professional Certificate** and I
 ---
 
 ##  Current Goals
-- Pass **CompTIA Security+**
 - Complete 3 more SOC-style investigations
 - Build first Python-based security automation tool
 - Begin studying **OT/ICS security fundamentals** (Houston-focused career path)
