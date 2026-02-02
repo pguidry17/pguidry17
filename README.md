@@ -1,5 +1,5 @@
 # Hi, I'm Patrick Guidry 👋  
-**Aspiring Cybersecurity Analyst | Security+ Candidate | SOC & Blue Team Focus**
+**Aspiring Cybersecurity Analyst | Security+ Certified | SOC & Blue Team Focus**
 
 I'm transitioning into cybersecurity after 10+ years of high-pressure, operations-driven work in the hospitality industry. I’m currently developing a hands-on security portfolio focused on SOC investigations, Linux log analysis, and foundational threat detection skills.
 
