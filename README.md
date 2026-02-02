@@ -54,7 +54,7 @@ I completed the **Google Cybersecurity Professional Certificate** and I've recen
 
 ##  Connect with Me
 **GitHub:** https://github.com/pguidry17  
-(LinkedIn link coming soon!)
+**Linkedin:** https://www.linkedin.com/in/patrick-guidry-cyber/
 
 ---
 
